@@ -1,0 +1,28 @@
+   h1{
+                color:white;
+                background:Black;
+            }
+            #first
+            {
+                color:white;
+                background:darkslategrey ;
+            
+            }
+            h3{
+                color:white;
+                background:darkslategrey;
+            }
+            #box
+            {
+                background:grey;
+                width:800px;
+                margin: 100px auto;
+                padding:50px
+            }
+            #image
+            {
+                width:200px  ;
+                height:250px;
+                border:2px solid grey;
+                border-radius:12px ;
+            }
